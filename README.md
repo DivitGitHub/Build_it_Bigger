@@ -9,10 +9,10 @@ behavior of the Gradle build tool, allowing automation of repetitive tasks.
 Particularly, factoring functionality into libraries and creating product
 flavors allow for much bigger projects with minimal added complexity.
 
-## What Will I Learn?
+## What I've learnt
 
-You will learn the role of Gradle in building Android Apps and how to use
-Gradle to manage apps of increasing complexity. You'll learn to:
+I learnt the role of Gradle in building Android Apps and how to use
+Gradle to manage apps of increasing complexity. I've also learnt to:
 
 * Add free and paid flavors to an app, and set up your build to share code between them
 * Factor reusable functionality into a Java library
