@@ -14,7 +14,7 @@ flavors allow for much bigger projects with minimal added complexity.
 I learnt the role of Gradle in building Android Apps and how to use
 Gradle to manage apps of increasing complexity. I've also learnt to:
 
-* Add free and paid flavors to an app, and set up your build to share code between them
+* Add free and paid flavors to an app, and set up builds to share code between them
 * Factor reusable functionality into a Java library
 * Factor reusable Android functionality into an Android library
 * Configure a multi project build to compile your libraries and app
