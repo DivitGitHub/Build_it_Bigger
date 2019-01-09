@@ -11,7 +11,7 @@ flavors allow for much bigger projects with minimal added complexity.
 
 ## What I've learnt
 
-I learnt the role of Gradle in building Android Apps and how to use
+The role of Gradle in building Android Apps and how to use
 Gradle to manage apps of increasing complexity. I've also learnt to:
 
 * Add free and paid flavors to an app, and set up builds to share code between them
